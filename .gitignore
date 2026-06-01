@@ -1,2 +1,4 @@
-# 运行时状态不入库
+# 推送运行时状态不入库
 jpush_state.json
+__pycache__/
+.DS_Store
